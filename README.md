@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey there 👋
+
+Thanks for checking out my github profile! I mostly use this place for tinkering with new tools, languages and ideas. If time allows I also contribute to open source projects. If you want to collaborate on something or just generally want to get in touch visit [jsie.de](https://jsie.de) and let me know.
 
 <!--
-**jaysiee/jaysiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
