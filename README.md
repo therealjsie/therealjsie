@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Thanks for checking out my github profile! I mostly use this place for tinkering with new tools, languages and ideas. If time allows I also contribute to open source projects. If you want to collaborate on something or just generally want to get in touch visit the website (← on the left side) and let me know.
+Thanks for checking out my github profile! I mostly use this place for tinkering with new tools, languages and ideas. If you want to collaborate on something or just generally want to get in touch visit the website (← on the left side) and let me know.
 
 <!--
 Here are some ideas to get you started:
