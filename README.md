@@ -15,9 +15,9 @@ I'm Johannes Siebel. I mostly use Github for tinkering with new tools, languages
 * 🌍 I'm located in *Koblenz, Germany*.
 * 💼 I work at *Debeka VVaG*.
 * ⚙️ I enjoy automating things and making them more reliable. 
-* 💭 I like learning about technology, org design & dynamics, systems thinking.
+* 💭 I like learning about technology, org design & dynamics, and systems thinking.
 * 📫 Reach me: [@therealjsie](https://twitter.com/therealjsie) or (even better) in person [calendly.com/jsie/coffee-break](https://calendly.com/jsie/coffee-break).
-* 💬 Talk to me about Books, Podcasts and how find the *perfect gif*.
+* 💬 Talk to me about Books, Podcasts, and how find the *perfect gif*.
 
 That being said...
 
