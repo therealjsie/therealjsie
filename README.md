@@ -1,16 +1,25 @@
-### Hey there 👋
+“*Hi there!*“ 👋
 
-Thanks for checking out my github profile! I mostly use this place for tinkering with new tools, languages and ideas. If you want to collaborate on something or just generally want to get in touch visit the website (← on the left side) and let me know.
+I'm Johannes Siebel. I mostly use Github for tinkering with new tools, languages and ideas. Keep reading if you want to know more about me or if you want to get in touch.
 
-<!--
-Here are some ideas to get you started:
+*__Quote of the Day__*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “And what would humans be without love?”
+>
+> RARE, said Death.
+>
+> ― *Terry Pratchett, Sorcery*
+
+*__About me__*
+
+* 🌍 I'm located in *Koblenz, Germany*.
+* 💼 I work at *Debeka VVaG*.
+* ⚙️ I enjoy automating things and making them more reliable. 
+* 💭 I like learning about technology, org design & dynamics, systems thinking.
+* 📫 Reach me: [@therealjsie](https://twitter.com/therealjsie) or (even better) in person [calendly.com/jsie/coffee-break](https://calendly.com/jsie/coffee-break).
+* 💬 Talk to me about Books, Podcasts and how find the *perfect gif*.
+
+That being said...
+
+![See you in the future](https://media2.giphy.com/media/12xvz9NssSkaS4/giphy.gif?cid=ecf05e47ebwyvm4yraergz0sjxlskkwimw4ge2o31o40f7ku&rid=giphy.gif&ct=g)
+ 
