@@ -1,6 +1,6 @@
 “*Hi there!*“ 👋
 
-I'm Johannes Siebel. I mostly use Github for tinkering with new tools, languages and ideas. Keep reading if you want to know more about me or if you want to get in touch.
+I'm Johannes Siebel. I use my public Github space for tinkering with new tools, languages and ideas. Keep reading if you want to know more about me or if you want to get in touch.
 
 *__Quote of the Day__*
 
@@ -13,12 +13,12 @@ I'm Johannes Siebel. I mostly use Github for tinkering with new tools, languages
 *__About me__*
 
 * 🌍 I'm located in *Koblenz, Germany*.
-* 💼 I work at *Debeka VVaG*.
-* ⚙️ I enjoy automating things and making them more reliable. 
-* 👨‍👨‍👦‍👦 I enjoy being a husband and dad, too.
+* 💼 I work at *LeanIX*.
+* ⚙️ I automate things and make them more reliable. 
+* 👨‍👨‍👦‍👦 I enjoy being a husband and dad to two kids.
 * 💭 I like learning about technology, org design & dynamics, and systems thinking.
 * 📫 Reach me: [@therealjsie](https://twitter.com/therealjsie) or (even better) in person [calendly.com/jsie/coffee-break](https://calendly.com/jsie/coffee-break).
-* 💬 Talk to me about Books, Podcasts, and how find the *perfect gif*.
+* 💬 Talk to me about books, podcasts, and how find the *perfect gif*.
 
 That being said...
 
