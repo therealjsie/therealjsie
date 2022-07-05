@@ -20,7 +20,7 @@ I'm Johannes Siebel. I use my public Github space for tinkering with new tools, 
 * 📫 Reach me: [@therealjsie](https://twitter.com/therealjsie) or (even better) in person [calendly.com/jsie/coffee-break](https://calendly.com/jsie/coffee-break).
 * 💬 Talk to me about books, podcasts, and how find the *perfect gif*.
 
-That being said...
+That being said…
 
 ![See you in the future](https://media2.giphy.com/media/12xvz9NssSkaS4/giphy.gif?cid=ecf05e47ebwyvm4yraergz0sjxlskkwimw4ge2o31o40f7ku&rid=giphy.gif&ct=g)
  
