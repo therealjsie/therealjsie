@@ -13,7 +13,7 @@ I'm Johannes Siebel. I use my public Github space for tinkering with new tools, 
 *__About me__*
 
 * 🌍 I'm located in *Koblenz, Germany*.
-* 💼 I work at *LeanIX*.
+* 💼 I work at *[LeanIX](https://www.leanix.net/en/)*.
 * ⚙️ I automate things and make them more reliable. 
 * 👨‍👨‍👦‍👦 I enjoy being a husband and dad to two kids.
 * 💭 I like learning about technology, org design & dynamics, and systems thinking.
